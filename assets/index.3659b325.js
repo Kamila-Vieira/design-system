@@ -1,0 +1,2 @@
+var m=Object.defineProperty;var a=(r,s)=>m(r,"name",{value:s,configurable:!0});import{H as o}from"./index.0a825303.js";import{L as t}from"./index.7246d1d0.js";import{T as i}from"./index.193c55e1.js";import{a as l,j as e}from"./jsx-runtime.3fbf7225.js";function d(){return l("header",{className:"flex flex-col items-center",children:[e(t,{}),e(o,{size:"lg",className:"mt-4",children:"Ignite Lab"}),e(i,{size:"lg",className:"text-gray-400 mt-1",children:"Fa\xE7a login e comece a usar!"})]})}a(d,"Header");export{d as H};
+//# sourceMappingURL=index.3659b325.js.map
