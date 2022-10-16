@@ -1,9 +1,9 @@
 import { Meta, StoryObj } from "@storybook/react";
-import { SingInForm } from ".";
+import { SignIn } from ".";
 
 export default {
-  title: "Modules/SingInForm",
-  component: SingInForm,
+  title: "Pages/SignIn",
+  component: SignIn,
 } as Meta;
 
 export const Default: StoryObj = {};
