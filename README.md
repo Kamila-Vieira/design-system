@@ -8,9 +8,16 @@ Projeto de design system no Figma e com Storybook no React desenvolvido durante 
 
 O projeto consiste numa tela de login com o layout e design system feitos no Figma, e o desenvolvimento da aplicação com Storybook com React e Typescript. Este projeto visa apresentar técnicas de desenvolvimento de design system no layout bem como a composição de design system na aplicação web com Storybook.
 
-### Layout e design system do projeto no Figma
+### O projeto no Figma
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEKa2piNFhNzsxmMPKuva84%2FIgnite-Lab-Design-System%3Fnode-id%3D10%253A451" allowfullscreen></iframe>
+#### Layout
+[![Layout Figma](screenshots/figma_layout.png)](https://www.figma.com/file/EKa2piNFhNzsxmMPKuva84/Ignite-Lab-Design-System?node-id=0%3A1)
+
+#### Componentes - Design System
+[![Layout Design system components](screenshots/figma_components.png)](https://www.figma.com/file/EKa2piNFhNzsxmMPKuva84/Ignite-Lab-Design-System?node-id=9%3A145)
+
+#### Cores
+[![Layout cores](screenshots/figma_colors.png)](https://www.figma.com/file/EKa2piNFhNzsxmMPKuva84/Ignite-Lab-Design-System?node-id=107%3A161)
 
 ### Screenshots
 
