@@ -19,10 +19,6 @@ O projeto consiste numa tela de login com o layout e design systems feitos no Fi
 #### Cores
 [![Layout cores](screenshots/figma_colors.png)](https://www.figma.com/file/EKa2piNFhNzsxmMPKuva84/Ignite-Lab-Design-System?node-id=107%3A161)
 
-### Screenshots
-
-**Em breve**
-
 ### Como rodar a aplicação?
 
 **1.** Clone este repositório com o seguinte comando:
